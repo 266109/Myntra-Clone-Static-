@@ -1,6 +1,8 @@
 
 Address: https://naman-myntra-clone-static.netlify.app/
 
+A wonder Project which resulted in Good practice of React + Redux
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
